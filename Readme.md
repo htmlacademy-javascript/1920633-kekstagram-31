@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Kristina Lingthep](https://up.htmlacademy.ru/javascript/31/user/1920633).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Васильев](https://htmlacademy.ru/profile/id1353249).
 
 ---
 
